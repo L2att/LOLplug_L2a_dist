@@ -1,0 +1,21 @@
+[
+    {
+        "number": "v1.2.0",
+        "date": "2024-03-20",
+        "downloadUrl": "https://wwtg.lanzouo.com/i1qYH2iywsmh",
+        "changes": [
+            {
+                "typeText": "新功能",
+                "description": "添加深色模式支持\n- 支持自动切换\n- 增加主题设置面板\n- 优化夜间阅读体验"
+            },
+            {
+                "typeText": "优化",
+                "description": "提升页面加载速度"
+            },
+            {
+                "typeText": "修复",
+                "description": "修复移动端显示问题"
+            }
+        ]
+    }
+]
