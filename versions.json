@@ -4,18 +4,19 @@
             "number": "14.24",
             "date": "2024-03-20",
             "downloadUrl": "https://wwtg.lanzouo.com/i1qYH2iywsmh",
+            "pwd":"9aba",
             "changes": [
                 {
                     "typeText": "新功能",
-                    "description": "添加深色模式支持\n- 支持自动切换\n- 增加主题设置面板\n- 优化夜间阅读体验"
+                    "description": "自动创建房间（大厅/主页）\n不建议和【自动寻找对局】同时开启，以防下次启动游戏自动创建房间开始游戏\n或 关闭助手前\n手动关闭【自动寻找对局】\n自动设置功能的提示介绍"
                 },
                 {
                     "typeText": "优化",
-                    "description": "提升页面加载速度"
+                    "description": "减少体积\n启动速度"
                 },
                 {
                     "typeText": "修复",
-                    "description": "修复移动端显示问题"
+                    "description": "修复部分显示bug"
                 }
             ]
         }
