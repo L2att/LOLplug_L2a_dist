@@ -2,7 +2,7 @@
     "ver": [
         {
             "number": "14.24",
-            "date": "2024-03-20",
+            "date": "2024-12-25",
             "downloadUrl": "https://wwtg.lanzouo.com/i1qYH2iywsmh",
             "pwd":"9aba",
             "changes": [
@@ -17,6 +17,18 @@
                 {
                     "typeText": "修复",
                     "description": "修复部分显示bug"
+                }
+            ]
+        },
+        {
+            "number": "14.23.01",
+            "date": "2024-12-04",
+            "downloadUrl": "https://wwtg.lanzouo.com/i6ys82h4x7sh",
+            "pwd":"b9be",
+            "changes": [
+                {
+                    "typeText": "修复",
+                    "description": "修复2024年1月29日弃用WMIC，部分系统无法连接客户端的问题\n连接客户端正常无需更新"
                 }
             ]
         }
