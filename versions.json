@@ -31,5 +31,10 @@
             ]
         }
     ],
-    "is_allowed_run": true
+    "is_allowed_run": true,
+    "notice": {
+        "title":"公告",
+        "content":"这是一条公告",
+        "endtime":"2025年3月8日"
+    }
 }
