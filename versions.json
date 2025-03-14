@@ -1,6 +1,25 @@
 {
     "ver": [
         {
+            "number": "15.5",
+            "date": "2025-03-15",
+            "downloadUrl": "下载:https://wwtg.lanzouo.com/ixwiI2qmuixc 密码:8inn",
+            "changes": [
+                {
+                    "typeText": "新功能",
+                    "description": "增加热更新功能\n有更新时,自动获取\n无需手动下载实现无感更新\n无需重新下载新版本"
+                },
+                {
+                    "typeText": "优化",
+                    "description": "优化部分代码逻辑\n优化部分显示逻辑"
+                },
+                {
+                    "typeText": "修复",
+                    "description": "修复部分已知bug"
+                }
+            ]
+        },
+        {
             "number": "14.24",
             "date": "2024-12-25",
             "downloadUrl": "下载:https://wwtg.lanzouo.com/i1qYH2iywsmh 密码:9aba",
@@ -16,17 +35,6 @@
                 {
                     "typeText": "修复",
                     "description": "修复部分显示bug"
-                }
-            ]
-        },
-        {
-            "number": "14.23.01",
-            "date": "2024-12-04",
-            "downloadUrl": "下载:https://wwtg.lanzouo.com/i6ys82h4x7sh 密码:b9be",
-            "changes": [
-                {
-                    "typeText": "修复",
-                    "description": "修复2024年1月29日弃用WMIC，部分系统无法连接客户端的问题\n连接客户端正常无需更新"
                 }
             ]
         }
