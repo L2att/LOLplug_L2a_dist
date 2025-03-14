@@ -55,6 +55,9 @@
         .download-link a:hover {
             text-decoration: underline;
         }
+        strong {
+            font-size: large;
+        }
     </style>
 </head>
 <body>
@@ -98,7 +101,7 @@
 
                     version.changes.forEach(change => {
                         const changeItem = document.createElement('p');
-                        changeItem.innerHTML = `<strong>${change.typeText}：</strong>${change.description.replace(/\n/g, '<br>')}`;
+                        changeItem.innerHTML = `<strong>${change.typeText}：</strong><br>${change.description.replace(/\n/g, '<br>')}`;
                         updateContent.appendChild(changeItem);
                     });
 
