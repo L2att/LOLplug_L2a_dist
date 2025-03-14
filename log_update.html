@@ -104,10 +104,9 @@
 
                     // 下载链接
                     if (version.downloadUrl) {
-                        const [linkText, url, password] = version.downloadUrl.split(/[: ]+/);
                         const downloadLink = document.createElement('p');
                         downloadLink.className = 'download-link';
-                        downloadLink.innerHTML = `<a href="${url}" target="_blank">${linkText}</a> 密码:${password}`;
+                        downloadLink.textContent = version.downloadUrl;
                         updateContent.appendChild(downloadLink);
                     }
 
