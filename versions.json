@@ -1,6 +1,26 @@
 {
     "ver": [
         {
+        
+            "number": "15.10",
+            "date": "2025-05-16",
+            "downloadUrl": "下载:https://wwtg.lanzouo.com/iRPEa2vqb44j 密码:3i3k",
+            "changes": [
+                {
+                    "typeText": "新功能",
+                    "description": "新增opgg大乱斗数据\n天赋、出装、鞋子推荐\n无需下载更新\n实现无感自动更新"
+                },
+                {
+                    "typeText": "优化",
+                    "description": "优化部分已知错误\n升级优化"
+                },
+                {
+                    "typeText": "修复",
+                    "description": "修复已知问题"
+                }
+            ]
+        },
+        {
             "number": "15.9.1",
             "date": "2025-05-09",
             "downloadUrl": "下载:https://wwtg.lanzouo.com/iRPEa2vqb44j 密码:3i3k",
