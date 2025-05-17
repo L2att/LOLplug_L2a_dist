@@ -4,11 +4,11 @@
         
             "number": "15.10",
             "date": "2025-05-16",
-            "downloadUrl": "下载:https://wwtg.lanzouo.com/iRPEa2vqb44j 密码:3i3k",
+            "downloadUrl": "下载:https://wwtg.lanzouo.com/i9swU2wivq2h 密码:hxwc",
             "changes": [
                 {
                     "typeText": "新功能",
-                    "description": "新增opgg大乱斗数据\n天赋、出装、鞋子推荐\n无需下载更新\n实现无感自动更新"
+                    "description": "新增opgg大乱斗数据\n天赋、出装、鞋子推荐\n需要下载更新客户端\n建议更新"
                 },
                 {
                     "typeText": "优化",
@@ -100,7 +100,7 @@
     "is_allowed_run": true,
     "notice": {
         "title": "公告",
-        "content": "这是一条公告",
+        "content": "由于新增opgg出装天赋功能,查看英雄符文天赋时可能会卡死,请重新下载更新客户端",
         "endtime": "2025年3月10日"
     }
 }
