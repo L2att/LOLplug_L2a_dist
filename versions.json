@@ -2,6 +2,26 @@
     "ver": [
         {
         
+            "number": "15.12",
+            "date": "2025-06-18",
+            "downloadUrl": "下载:https://wwtg.lanzouo.com/iMM3K2wiwdud 密码:hna8",
+            "changes": [
+                {
+                    "typeText": "新功能",
+                    "description": "黑名单识别\n·(游戏内拉黑的玩家)\n·(自动识别提示匹配到的黑名单玩家)\n·([其它]-[黑名单]菜单内可查看黑名单列表)"
+                },
+                {
+                    "typeText": "优化",
+                    "description": "优化部分已知错误\n升级优化"
+                },
+                {
+                    "typeText": "修复",
+                    "description": "修复已知问题"
+                }
+            ]
+        },
+        {
+        
             "number": "15.10",
             "date": "2025-05-16",
             "downloadUrl": "下载:https://wwtg.lanzouo.com/iMM3K2wiwdud 密码:hna8",
