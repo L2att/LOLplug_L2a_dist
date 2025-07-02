@@ -1,27 +1,21 @@
 {
     "ver": [
- {
-        
+        {
             "number": "15.13",
             "date": "2025-07-02",
             "downloadUrl": "下载:https://wwtg.lanzouo.com/ix4Ir2zk9wod 密码:5c6u",
             "changes": [
                 {
+                    "typeText": "说明",
+                    "description": "此版本无需更新\n·无感在线热更新"
+                },
+                {
                     "typeText": "新功能",
-                    "description": "此版本无需更新\n·无感在线热更新\n增加黑名单备注\n·(黑名单列表点击名称添加)\n·[其它]-[黑名单]界面可查看黑名单列表\n·匹配识别会显示备注\n·(数据仅存在本地,无法跨设备同步)"
-                },
-                {
-                    "typeText": "优化",
-                    "description": "优化部分已知错误\n升级优化"
-                },
-                {
-                    "typeText": "修复",
-                    "description": "修复已知问题"
+                    "description": "增加黑名单备注\n·①(黑名单列表点击名称添加)\n·②[其它]-[黑名单]界面可查看黑名单列表\n·⓷匹配识别会显示备注\n·⓸(数据仅存在本地,无法跨设备同步)"
                 }
             ]
         },
         {
-        
             "number": "15.12",
             "date": "2025-06-18",
             "downloadUrl": "下载:https://wwtg.lanzouo.com/ix4Ir2zk9wod 密码:5c6u",
@@ -41,7 +35,6 @@
             ]
         },
         {
-        
             "number": "15.10",
             "date": "2025-05-16",
             "downloadUrl": "下载:https://wwtg.lanzouo.com/iMM3K2wiwdud 密码:hna8",
