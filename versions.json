@@ -8,7 +8,7 @@
             "changes": [
                 {
                     "typeText": "新功能",
-                    "description": "增加黑名单备注\n·(黑名单列表点击名称添加)\n·匹配识别会显示备注\n·备注信息储存位置(C:\\Users\\用户名\\Documents\\LOLplug_L2a\\L2ablacklist.json)\n·(数据仅存在本地,无法多设备同步)"
+                    "description": "增加黑名单备注\n·(黑名单列表点击名称添加)\n·[其它]-[黑名单]界面可查看黑名单列表\n·匹配识别会显示备注\n·备注信息储存位置(C:\\Users\\用户名\\Documents\\LOLplug_L2a\\L2ablacklist.json)\n·(数据仅存在本地,无法多设备同步)\n在线无感热更新,无需重新下载客户都\n版本号变为15.13即更新"
                 },
                 {
                     "typeText": "优化",
