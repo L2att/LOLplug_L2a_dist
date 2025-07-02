@@ -1,5 +1,25 @@
 {
     "ver": [
+ {
+        
+            "number": "15.13",
+            "date": "2025-07-02",
+            "downloadUrl": "下载:https://wwtg.lanzouo.com/ix4Ir2zk9wod 密码:5c6u",
+            "changes": [
+                {
+                    "typeText": "新功能",
+                    "description": "增加黑名单备注\n·(黑名单列表点击名称添加)\n·匹配识别会显示备注\n·备注信息储存位置(C:\Users\用户名\Documents\LOLplug_L2a\L2ablacklist.json)\n·(数据仅存在本地,无法多设备同步)"
+                },
+                {
+                    "typeText": "优化",
+                    "description": "优化部分已知错误\n升级优化"
+                },
+                {
+                    "typeText": "修复",
+                    "description": "修复已知问题"
+                }
+            ]
+        },
         {
         
             "number": "15.12",
