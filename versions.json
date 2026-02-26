@@ -1,6 +1,21 @@
 {
     "ver": [
         {
+            "number": "16.3",
+            "date": "2026-02-26",
+            "downloadUrl": "下载:https://wwbrg.lanzouv.com/iPU9p3j8pe1g 密码:1b1t",
+            "changes": [
+                {
+                    "typeText": "说明",
+                    "description": "此版本无需更新.\n·无感在线热更新"
+                },
+                {
+                    "typeText": "新功能",
+                    "description": "修复已知问题,优化性能\n·优化部分界面显示\n·优化部分功能逻辑"
+                }
+            ]
+        },
+        {
             "number": "15.13",
             "date": "2025-07-02",
             "downloadUrl": "下载:https://wwtg.lanzouo.com/ix4Ir2zk9wod 密码:5c6u",
