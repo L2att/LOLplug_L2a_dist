@@ -1,6 +1,21 @@
 {
     "ver": [
         {
+            "number": "16.5",
+            "date": "2026-03-13",
+            "downloadUrl": "下载:https://wwbrg.lanzouv.com/iPJl63khihne 密码:2hib",
+            "changes": [
+                {
+                    "typeText": "说明",
+                    "description": "建议更新\n·上版本为本地版本\n·无法在线更新\n·此版本为在线版本\n·支持在线更新"
+                },
+                {
+                    "typeText": "新功能",
+                    "description": "新增opgg出装天赋数据\n修复已知bug\n优化部分代码提供跟高性能\n建议更新"
+                }
+            ]
+        },
+        {
             "number": "16.3",
             "date": "2026-02-26",
             "downloadUrl": "下载:https://wwbrg.lanzouv.com/iPU9p3j8pe1g 密码:1b1t",
