@@ -1,6 +1,21 @@
 {
     "ver": [
         {
+            "number": "16.6",
+            "date": "2026-03-31",
+            "downloadUrl": "下载:https://wwbrg.lanzouv.com/ifKWv3lyu4cf 密码:e9hb",
+            "changes": [
+                {
+                    "typeText": "❗重要说明",
+                    "description": "❗强烈建议更新\n此版本需下载更新客户端\n❗不更新部分功能无法使用\n·优化大量代码\n·采用新架构\n·修复已知bug,优化性能"
+                },
+                {
+                    "typeText": "新功能",
+                    "description": "根据位置自动应用opgg天赋\n改用新架构\n优化部分代码提供跟高性能"
+                }
+            ]
+        },
+        {
             "number": "16.5",
             "date": "2026-03-13",
             "downloadUrl": "下载:https://wwbrg.lanzouv.com/iPJl63khihne 密码:2hib",
